@@ -1,6 +1,6 @@
 # My second repository
 
-My name is Jan-Philip Muennich
+Holiday moods
 
-Holidays
+Would be great to be there now...
 ![Holidays](Holiday.jpg)
